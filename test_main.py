@@ -5,4 +5,4 @@ class TestSimpleApp(TestCase):
     def test_sum(self):
         self.assertEqual(2 + 3, 5)
 
-53
+24
